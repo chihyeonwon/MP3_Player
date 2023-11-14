@@ -8,3 +8,7 @@ strings.xml 파일을 이용해서 앱에 들어가는 문자열을 관리하면
 ```
 android resource file -> type raw 선택하고 raw 폴더안에 mp3를 넣어준다.
 ```
+![image](https://github.com/mr-won/MP3_Player/assets/58906858/7afe6ae0-99f9-4fe5-bc77-89135606d071)
+```
+drawable -> Vector asset -> clip art에 수많은 이미지 중 
+```
